@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Infrastructure.deps.json
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Infrastructure.runtimeconfig.json
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Infrastructure.dll
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Infrastructure.pdb
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Core.dll
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\bin\Debug\net9.0\ResourceReservation.Core.pdb
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\Resource.3FECE8E3.Up2Date
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.dll
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\refint\ResourceReservation.Infrastructure.dll
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.pdb
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ResourceReservation.Infrastructure.genruntimeconfig.cache
+C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Infrastructure\obj\Debug\net9.0\ref\ResourceReservation.Infrastructure.dll
