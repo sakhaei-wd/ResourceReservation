@@ -10,6 +10,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,

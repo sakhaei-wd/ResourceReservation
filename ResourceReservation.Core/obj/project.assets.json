@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
+      "projectUniqueName": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
       "projectName": "ResourceReservation.Core",
-      "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
+      "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\obj\\",
+      "outputPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

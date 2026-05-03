@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.API\\ResourceReservation.API.csproj": {}
+    "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.api\\ResourceReservation.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.API\\ResourceReservation.API.csproj": {
+    "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.api\\ResourceReservation.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.API\\ResourceReservation.API.csproj",
+        "projectUniqueName": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.api\\ResourceReservation.API.csproj",
         "projectName": "ResourceReservation.API",
-        "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.API\\ResourceReservation.API.csproj",
+        "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.api\\ResourceReservation.API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.API\\obj\\",
+        "outputPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj"
+              "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
+                "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj"
+              "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj": {
+                "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
+    "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
+        "projectUniqueName": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
         "projectName": "ResourceReservation.Core",
-        "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
+        "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\obj\\",
+        "outputPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj": {
+    "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj",
+        "projectUniqueName": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj",
         "projectName": "ResourceReservation.Infrastructure",
-        "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj",
+        "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\ResourceReservation.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Infrastructure\\obj\\",
+        "outputPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,8 +190,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj"
+              "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj": {
+                "projectPath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj"
               }
             }
           }

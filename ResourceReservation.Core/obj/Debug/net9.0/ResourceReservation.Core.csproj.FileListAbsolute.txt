@@ -9,3 +9,15 @@ C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Core
 C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\refint\ResourceReservation.Core.dll
 C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.pdb
 C:\Users\PC\Desktop\sam-dotnet-task\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ref\ResourceReservation.Core.dll
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\bin\Debug\net9.0\ResourceReservation.Core.deps.json
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\bin\Debug\net9.0\ResourceReservation.Core.dll
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\bin\Debug\net9.0\ResourceReservation.Core.pdb
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.AssemblyInfoInputs.cache
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.AssemblyInfo.cs
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.csproj.CoreCompileInputs.cache
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.sourcelink.json
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.dll
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\refint\ResourceReservation.Core.dll
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ResourceReservation.Core.pdb
+C:\source\go\src\github.com\sakhaei-wd\ResourceReservation\ResourceReservation.Core\obj\Debug\net9.0\ref\ResourceReservation.Core.dll

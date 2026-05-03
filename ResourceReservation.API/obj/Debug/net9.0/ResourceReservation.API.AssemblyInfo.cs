@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResourceReservation.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55489d7103123950ab7fa44010e64f3011622fea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResourceReservation.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResourceReservation.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

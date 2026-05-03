@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YF4sHJ04bOc=",
+  "dgSpecHash": "cIWMi3YMFFE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\sam-dotnet-task\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
+  "projectFilePath": "C:\\source\\go\\src\\github.com\\sakhaei-wd\\ResourceReservation\\ResourceReservation.Core\\ResourceReservation.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
