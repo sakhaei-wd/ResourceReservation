@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResourceReservation.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55489d7103123950ab7fa44010e64f3011622fea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3a74089cbf81d56e9c5707637920c3555b21c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResourceReservation.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResourceReservation.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700&display=swap');
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+:root {
+  --bg:       #0d1117;
+  --bg2:      #161c26;
+  --bg3:      #1e2736;
+  --border:   #2d3748;
+  --accent:   #60a5fa;
+  --accent2:  #818cf8;
+  --success:  #34d399;
+  --error:    #f87171;
+  --text:     #f1f5f9;
+  --text2:    #94a3b8;
+  --radius:   12px;
+}
+
+html, body {
+  direction: rtl;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Vazirmatn', Tahoma, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}

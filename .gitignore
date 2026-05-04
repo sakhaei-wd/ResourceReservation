@@ -1,0 +1,27 @@
+# ── .NET build outputs ──
+bin/
+obj/
+
+# ── .NET user-specific files ──
+*.user
+*.suo
+.vs/
+*.userprefs
+
+# ── NuGet ──
+*.nupkg
+project.nuget.cache
+*.nuget.dgspec.json
+
+# ── Angular ──
+node_modules/
+dist/
+.angular/
+
+# ── Environment & secrets ──
+appsettings.Development.json
+*.env
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
